@@ -1,6 +1,6 @@
 # Hi, I'm Prachi Patil
 
-### 🚀 Full Stack Developer | B.Tech in Artificial Intelligence & Data Science
+###  Full Stack Developer | B.Tech in Artificial Intelligence & Data Science
 
 I'm a passionate developer interested in building **scalable, user-friendly and practical web applications**.
 
@@ -8,18 +8,18 @@ I enjoy working with modern web technologies, solving programming problems, and 
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💻 Aspiring Full Stack / Software Developer
-- 🌱 Currently improving my skills in **MERN Stack, Python & DSA**
-- 🔨 Interested in building real-world web applications
-- 🧠 Strong interest in problem solving and software development
-- 📫 Open to **Full Stack Developer / Software Developer opportunities**
+-  B.Tech in Artificial Intelligence & Data Science
+-  Aspiring Full Stack / Software Developer
+-  Currently improving my skills in **MERN Stack, Python & DSA**
+-  Interested in building real-world web applications
+-  Strong interest in problem solving and software development
+-  Open to **Full Stack Developer / Software Developer opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,9 +46,9 @@ I enjoy working with modern web technologies, solving programming problems, and 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ✈️ Ambai Tours and Travel Management System
+###  Ambai Tours and Travel Management System
 **MERN Stack**
 
 A full-stack travel management platform for exploring travel packages, destinations, hotels, buses and managing bookings.
@@ -59,7 +59,7 @@ A full-stack travel management platform for exploring travel packages, destinati
 
 ---
 
-### 🌾 Blockchain Based Agricultural Marketplace
+###  Blockchain Based Agricultural Marketplace
 **Python + Flask**
 
 A web-based marketplace designed to connect farmers and buyers with secure transaction records using a custom blockchain implementation.
@@ -68,7 +68,7 @@ A web-based marketplace designed to connect farmers and buyers with secure trans
 
 ---
 
-### 🌍 Multilingual Translator
+###   Multilingual Translator
 **React + Node.js**
 
 A web application for translating text between multiple languages with speech-related functionality.
@@ -79,14 +79,14 @@ A web application for translating text between multiple languages with speech-re
 
 ## 📚 Currently Learning
 
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🧩 Data Structures & Algorithms
-- 🐍 Python
-- 🗄️ SQL
-- 💡 Problem Solving
-- 🚀 Full Stack Development
+-  Advanced React.js
+-  Node.js & Express.js
+-  MongoDB
+-  Data Structures & Algorithms
+-  Python
+-  SQL
+-  Problem Solving
+-  Full Stack Development
 
 ---
 
@@ -101,6 +101,6 @@ A web application for translating text between multiple languages with speech-re
 
 ---
 
-### 💡 "Building projects, solving problems, and learning every day."
+###  "Building projects, solving problems, and learning every day."
 
-⭐ Feel free to explore my repositories and connect with me!
+ Feel free to explore my repositories and connect with me!
