@@ -54,7 +54,6 @@ A full-stack travel management platform for exploring travel packages, destinati
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
 
-🔗 [View Project](https://github.com/Prachii2710/Tours-and-travels-management-System)
 
 ---
 
