@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prachi Patil
+ Hi, I'm Prachi Patil
 
 ### 🚀 Full Stack Developer | B.Tech in Artificial Intelligence & Data Science
 
