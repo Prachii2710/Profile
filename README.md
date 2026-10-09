@@ -15,7 +15,6 @@ I enjoy working with modern web technologies, solving programming problems, and 
 - 🌱 Currently improving my skills in **MERN Stack, Python & DSA**
 - 🔨 Interested in building real-world web applications
 - 🧠 Strong interest in problem solving and software development
-- 📍 India
 - 📫 Open to **Full Stack Developer / Software Developer opportunities**
 
 ---
@@ -105,7 +104,7 @@ A web application for translating text between multiple languages with speech-re
 
 💻 [GitHub](https://github.com/Prachii2710)
 
-📧 **Email:** your-email@gmail.com
+📧 [Email](prachipatil0623@gmail.com)
 
 ---
 
