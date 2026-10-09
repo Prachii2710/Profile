@@ -90,13 +90,6 @@ A web application for translating text between multiple languages with speech-re
 
 ---
 
-## 📊 GitHub Stats
-
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prachii2710&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachii2710&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
